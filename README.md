@@ -19,4 +19,5 @@
 
 ## Ekran Kaydı
 
-https://github.com/user-attachments/assets/6bc9e04c-74c8-4633-ab4b-e15591a9af3a
+https://github.com/user-attachments/assets/3d697793-0deb-414e-94fc-32b499c0f610
+
