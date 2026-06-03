@@ -1,0 +1,142 @@
+[
+  {
+    "id": "provider_001",
+    "type": "doctor",
+    "name": "Dr. Ahmet Yılmaz",
+    "specialty": "Kardiyoloji",
+    "rating": 4.8,
+    "reviewCount": 120,
+    "experienceYears": 15,
+    "onlineAppointment": true,
+    "nextAvailableSlot": "2026-06-02T10:30:00+03:00",
+    "insurance": ["SGK", "Allianz"],
+    "address": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Şişli"
+    },
+    "distanceKm": 2.4,
+    "phone": "+90 232 123 45 67",
+    "imageUrl": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=600&h=600&fit=crop&crop=face"
+  },
+  {
+    "id": "provider_002",
+    "type": "doctor",
+    "name": "Dr. Ayşe Demir",
+    "specialty": "Cildiye",
+    "rating": 4.9,
+    "reviewCount": 85,
+    "experienceYears": 12,
+    "onlineAppointment": true,
+    "nextAvailableSlot": "2026-06-03T14:00:00+03:00",
+    "insurance": ["SGK", "Axa"],
+    "address": {
+      "country": "Türkiye",
+      "city": "Ankara",
+      "district": "Çankaya"
+    },
+    "distanceKm": 5.1,
+    "phone": "+90 312 456 78 90",
+    "imageUrl": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=600&h=600&fit=crop&crop=face"
+  },
+  {
+    "id": "provider_003",
+    "type": "doctor",
+    "name": "Dr. Mehmet Kaya",
+    "specialty": "Dahiliye",
+    "rating": 4.6,
+    "reviewCount": 210,
+    "experienceYears": 20,
+    "onlineAppointment": false,
+    "nextAvailableSlot": "2026-06-04T09:00:00+03:00",
+    "insurance": ["SGK"],
+    "address": {
+      "country": "Türkiye",
+      "city": "İzmir",
+      "district": "Konak"
+    },
+    "distanceKm": 1.8,
+    "phone": "+90 232 789 01 23",
+    "imageUrl": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=600&h=600&fit=crop&crop=face"
+  },
+  {
+    "id": "provider_004",
+    "type": "doctor",
+    "name": "Dr. Elif Öztürk",
+    "specialty": "Kardiyoloji",
+    "rating": 4.7,
+    "reviewCount": 98,
+    "experienceYears": 10,
+    "onlineAppointment": true,
+    "nextAvailableSlot": "2026-06-02T16:00:00+03:00",
+    "insurance": ["SGK", "Allianz", "Axa"],
+    "address": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Kadıköy"
+    },
+    "distanceKm": 3.2,
+    "phone": "+90 216 321 54 87",
+    "imageUrl": ""
+  },
+  {
+    "id": "provider_005",
+    "type": "doctor",
+    "name": "Dr. Can Arslan",
+    "specialty": "Ortopedi",
+    "rating": 4.5,
+    "reviewCount": 156,
+    "experienceYears": 18,
+    "onlineAppointment": true,
+    "nextAvailableSlot": "2026-06-05T11:30:00+03:00",
+    "insurance": ["SGK", "Mapfre"],
+    "address": {
+      "country": "Türkiye",
+      "city": "Bursa",
+      "district": "Osmangazi"
+    },
+    "distanceKm": 4.5,
+    "phone": "+90 224 654 32 10",
+    "imageUrl": "https://images.unsplash.com/photo-1537368910025-700350fe46c7?w=600&h=600&fit=crop&crop=face"
+  },
+  {
+    "id": "provider_006",
+    "type": "doctor",
+    "name": "Dr. Zeynep Çelik",
+    "specialty": "Göz Hastalıkları",
+    "rating": 4.9,
+    "reviewCount": 73,
+    "experienceYears": 8,
+    "onlineAppointment": false,
+    "nextAvailableSlot": "2026-06-03T10:00:00+03:00",
+    "insurance": ["SGK", "Allianz"],
+    "address": {
+      "country": "Türkiye",
+      "city": "Ankara",
+      "district": "Kızılay"
+    },
+    "distanceKm": 6.0,
+    "phone": "+90 312 987 65 43",
+    "imageUrl": "https://images.unsplash.com/photo-1651008376811-b90baee60c1f?w=600&h=600&fit=crop&crop=face"
+  },
+  {
+    "id": "provider_007",
+    "type": "doctor",
+    "name": "Dr. Burak Şahin",
+    "specialty": "Dahiliye",
+    "rating": 4.4,
+    "reviewCount": 192,
+    "experienceYears": 22,
+    "onlineAppointment": true,
+    "nextAvailableSlot": "2026-06-02T15:00:00+03:00",
+    "insurance": ["SGK"],
+    "address": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Beşiktaş"
+    },
+    "distanceKm": 1.2,
+    "phone": "+90 212 543 21 09",
+    "imageUrl": "https://images.unsplash.com/photo-1582750433449-648ed127bb54?w=600&h=600&fit=crop&crop=face"
+  }
+]
